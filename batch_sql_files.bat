@@ -4,7 +4,7 @@ set dbhost=192.168.1.100
 rem 用户名
 set dbuser=root
 rem 数据库密码
-set dbpasswd=wutong12345678
+set dbpasswd=********
 rem 指定导入数据库的名称
 set dbname=test
 rem 将sqlfile指定文件夹下的.sql文件批量导入数据库（需要指定文件夹）
